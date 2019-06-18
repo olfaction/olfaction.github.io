@@ -8,14 +8,14 @@ permalink: /about/
 
 ### More Information
 
-Lead PI: Dmitry (Dima) Rinberg
-PI: Tom Bozza
-PI: Sandeep (Bob) Datta
-PI: Alex Fleischmann
-PI: Kevin Franks
-PI: Rick Gerkin
-PI: Alex Koulakov
-PI: Joel Mainland
+- Lead PI: Dmitry (Dima) Rinberg
+- PI: Tom Bozza
+- PI: Sandeep (Bob) Datta
+- PI: Alex Fleischmann
+- PI: Kevin Franks
+- PI: Rick Gerkin
+- PI: Alex Koulakov
+- PI: Joel Mainland
 
 ### Contact me
 
