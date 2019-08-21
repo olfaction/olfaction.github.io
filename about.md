@@ -17,6 +17,6 @@ permalink: /about/
 - PI: Alex Koulakov
 - PI: Joel Mainland
 
-### Contact me
+### Contact us
 
-[rgerkin@asu.edu](mailto:rgerkin@asu.edu)
+[admin@osmonauts.org](mailto:admin@osmonauts.org)
